@@ -1,4 +1,8 @@
 #!/usr/bin/env bash
+# This script displays the A records of a domain or its subdomain
+
+
+# shellcheck disable=SC2086
 
 # This script takes atleast one argument
 # 1: Domain
